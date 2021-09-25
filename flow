@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>花之语</title>
+<style type="text/css">
+body{
+	font-size:14px;
+	background:#ffe5e5;
+	}
+	h1{
+		text-align:center;
+		font-size:42px;
+		color:#9d3151;
+		}
+		#link1{
+			text-align:center;
+			}
+			#link1 a{
+				color:#C30;
+				font-size:14px;
+				text-decoration:none;
+				margin-right:35px;
+				}
+				#bg{
+					background:#b3375c;
+					padding:10px;
+					color:#FFF;}
+					#bg img{
+						float:left;
+						margin:10px}
+						.p1{
+							text-decoration:underline;
+							font-style:oblique;
+							color:#FF9;
+							}
+		</style>
+</head>
+
+<body>
+<h1>花之语</h1>
+<div id="link1"><p><a href="img/1.jpg"target="_blank">鲜花礼品</a><a href="#"> 自主订花</a><a href="#"> 绿色植物</a><a href="#"> 花之物语</a><a href="#">会员中心</a><a href="#"> 联系我们</a></div>
+<div id="bg">
+<h2>花的语言</h2>
+<img src="images/flower1.jpg"width="250"height="180">
+<p>花语是各国、各民族根据各种植物，尤其是花卉的特点、习性和传说典故，赋予的各种不同的人性化象征意义。是指人们用花来表示人的语言，表达人的某种请感与愿望，在一定的条件下约定俗成的，为一定范围人群所公认的交流形式。赏花要懂花语，花语构成花卉文化的核心，在花卉交流中，花卉虽无声，但此时无声胜有声，其中的含义和情感表达盛于语言。</p>
+<p>花语是指用花来表达人的语言，表达人的某种情感与愿望，在一定的历史条件下逐渐月定形成的，为一定范围人群所规定的信息交流形式。赏花要懂花语花语构成花卉文化的核心，在华会交流中，花卉虽无声，但此时无声胜有声，其中的含义和情感表达盛于言语。不能因为先表达自己的一番心意而在未了解花语时乱送别人鲜花，结果只会引起别人的误会。</p>
+<p class="p1">花语最早源于古希腊，呢个时候不仅是鲜花，叶子、果树都有一定的含义，在希腊神话中记载过爱神出生时创造了玫瑰的故事，玫瑰从呢个时候成为了爱情的代言词。花语在19世纪初，花语源于法国，随即流行到英国与美国。是由一些作家所创造出来的，主要用来出版礼物书籍，特别是提供给当时上流社会女士翻阅之用。</p>
+<p>真正花语流行是在法国皇室时期，贵族们将民间对花卉的资料整理编档，里面包含了话语的信息，这样的信息在宫廷后期的园林建筑中得到了完美的体现，大众对于花语的接受是在19世纪中，呢个时候的社会风气还是十分开放的，在大厅广众下表达爱意是难为情的事情，所以爱人间赠送花卉就成了爱情的信使。</p>
+<p class="p1">随着时代的发展，花卉成为了一种社会的赠与品，更加完美的花语代表了赠与者.</p></div>
+<h2>鲜花导购</h2>
+<ul><li>玫瑰花</li><li>百合花</li><li>郁金香</li><li>太阳花</li><li>康乃馨</li><li>马蹄莲</li><li>扶朗</li><li>剑兰</li></ul>
+</body>
+</html>
